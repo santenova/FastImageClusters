@@ -56,7 +56,6 @@ python3.9 groupimg.py -f test-images -k 7 -r 64 -s -m
 # Check output
 ls  test-images/*
 
-#This will cluster the images in `/path/to/images` into 3 groups, resample them to a size of 64x64 pixels, and include image dimensions in the feature vector.
 ```
 
 
